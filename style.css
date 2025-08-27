@@ -1,0 +1,22 @@
+html{
+    background:black;
+}
+
+.poster{
+    width:50%;
+    margin-left:25%
+}
+
+.motivation-img{
+    width:100%;
+    border:5px solid white;
+}
+h1{
+    font-family: Libre Baskerville;
+    text-transform:uppercase;
+}
+
+h1,p{
+    color:white;
+    text-align:center;
+}
